@@ -19,3 +19,8 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2RwNzBsbWoyeWM2em5xamR4dTl3eDNsaWE0NzV4NmI5dHZrYnY4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" width="100"/>
 </div>
   
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nandakishore-R&show_icons=true&locale=en&layout=compact" alt="Nandakishore-R" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nandakishore-R&show_icons=true&locale=en" alt="Nandakishore-R" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nandakishore-R2&" alt="Nandakishore-R" /></p>
