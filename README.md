@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2RwNzBsbWoyeWM2em5xamR4dTl3eDNsaWE0NzV4NmI5dHZrYnY4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" width="200" height="120"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2RwNzBsbWoyeWM2em5xamR4dTl3eDNsaWE0NzV4NmI5dHZrYnY4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" width="300" height="250"/>
 </div>
   
 <h3 align="left">Languages and Tools:</h3>
